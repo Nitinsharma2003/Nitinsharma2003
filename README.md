@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Nitinsharma2003
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Nitin sharma
+- 👀 I’m interested in web developing 
+- 🌱 I’m currently learning ... Next.js and mongodb
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Nitinsharma2003/Nitinsharma2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me.. send me a email on ns1978314@gmail.com
+- skills... html , css , javascript , reaact.js , php and mysql
